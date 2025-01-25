@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:#D5C9AE;
+}
+img {
+    background-color:grey;
+}
+h1 {
+    color:rgb(37, 22, 198);
+}
+footer {
+    background-color:#D5C9AE;
+    padding:10px;
+}
+select {
+    border:2px solid lightgrey;
+    font-size:20px;
+}
+nav {
+    margin:20px;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+    border:3px solid navy;
+    border-radius:10px;
+    background-color:navy;
+}
+.popular {
+    background-color:white;
+    color:royalblue;
+    text-decoration:none;
+    color:white;
+}
+.door {
+    background-color:grey;
+}
